@@ -17,14 +17,14 @@ Skills used:
 3-for loop
 
 ## JavaScript Tutor: Working with Basic Data Types  
-In this practice, it was proposed to create a short story in the vs code. We use variables to represent different elements of history. The program should include the following types of variables: 1 array, 3 integers and 4 strings. Here, we use again the tool mentioned JavaScript Tutor.  
+In this practice, it was proposed to create a short story in the vs code. We use variables to represent different elements of history. The program should include the following types of variables: 1 array, 3 integers and 4 strings. In addition, site pythontutor was used as a learning resource, more specifically, the JavaScript Tutor tool, for the development of the exercise.  
 Skills used:  
 1-Console.log method  
 2-Variable integer  
 3-Variable boolean and string
  
 ## Debugging Assignment  
-For this activity, we work on the program debugging techniques. There are 4 checkpoints, or programs, in this task. The goal is to manage to run them correctly when using debugging techniques to fix their mistakes. Here, we've made 3 of the 4 existing ones(checkpoint 4 hasn't been done yet). In addition, site pythontutor was used as a learning resource, more specifically, the JavaScript Tutor tool, for the development of the exercise.  
+For this activity, we work on the program debugging techniques. There are 4 checkpoints, or programs, in this task. The goal is to manage to run them correctly when using debugging techniques to fix their mistakes. Here, we've made 3 of the 4 existing ones(checkpoint 4 hasn't been done yet). Here, we use again the tool mentioned JavaScript Tutor.  
 Skills used:  
 1-Using breakpoints  
 2-analyzing error messages  
