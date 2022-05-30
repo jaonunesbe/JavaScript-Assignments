@@ -36,3 +36,13 @@ Skills used:
 1-Conditional statement If  
 2-SetInterval method  
 3-Introduction to the screen coordinate system, where the Pacman would be
+
+## Project Pt 2: PacMen Factory Assignment  
+In this challenge, I would give myself permission to say that we did an "extension" of Project Pt 1: PacMan Assignment. Here, we have valuable content integrating JavaScript with HTML through the Document Object Model (DOM). At this point, we learned more about the basics of HTML, and JavaScript commands that interact with it.Furthermore, the program performs a fun game in which the user can click on two buttons, one makes Pacmen appear on the screen, the other starts the dynamics, allowing the generated Pacmen to wander around the interface and bounce on the edges of the region in which they are located. . By clicking the start button more than once, things get faster.  
+Skills used:  
+1-Basic concepts of HTML elements and tags  
+2-Introduction to the DOM  
+3-Beginning of using the getElementById, createElement and appendChild methods
+
+
+
