@@ -47,8 +47,8 @@ Skills used:
 ## Unit Testing Activity  
 As a final part of this program, we did an exercise to assimilate the content learned regarding unit tests through Node.js, using Jest as support. In this activity, we create unique responses for each of the 5 types of entries (name, uppercase name, 2-element array, more than 2-element array, and null). The difference this time was the inspiration of TDD (Test-Driven Development), which allowed us to build the code based on this technique and do the unit tests, thus knowing exactly what the error was to be fixed, which made it possible to configure of a better program.  
 Skills used:  
-1-Introduction to Node.js.
-2-Introduction to Jest.
+1-Introduction to Node.js.  
+2-Introduction to Jest.  
 3-Introduction to the concept of testing.
 
 
